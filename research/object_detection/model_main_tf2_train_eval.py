@@ -18,7 +18,7 @@ import time
 import signal
 import argparse
 
-from trains import Task
+from allegroai import Task
 
 parser = argparse.ArgumentParser()
 parser.add_argument(
